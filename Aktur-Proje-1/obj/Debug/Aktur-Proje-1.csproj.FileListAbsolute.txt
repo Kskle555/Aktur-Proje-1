@@ -1,0 +1,11 @@
+C:\Users\bilgi\source\repos\Aktur-Proje-1\Aktur-Proje-1\bin\Debug\Aktur-Proje-1.exe.config
+C:\Users\bilgi\source\repos\Aktur-Proje-1\Aktur-Proje-1\bin\Debug\Aktur-Proje-1.exe
+C:\Users\bilgi\source\repos\Aktur-Proje-1\Aktur-Proje-1\bin\Debug\Aktur-Proje-1.pdb
+C:\Users\bilgi\source\repos\Aktur-Proje-1\Aktur-Proje-1\obj\Debug\Aktur-Proje-1.csproj.AssemblyReference.cache
+C:\Users\bilgi\source\repos\Aktur-Proje-1\Aktur-Proje-1\obj\Debug\Aktur-Proje-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\bilgi\source\repos\Aktur-Proje-1\Aktur-Proje-1\obj\Debug\Aktur_Proje_1.Form1.resources
+C:\Users\bilgi\source\repos\Aktur-Proje-1\Aktur-Proje-1\obj\Debug\Aktur_Proje_1.Properties.Resources.resources
+C:\Users\bilgi\source\repos\Aktur-Proje-1\Aktur-Proje-1\obj\Debug\Aktur-Proje-1.csproj.GenerateResource.cache
+C:\Users\bilgi\source\repos\Aktur-Proje-1\Aktur-Proje-1\obj\Debug\Aktur-Proje-1.csproj.CoreCompileInputs.cache
+C:\Users\bilgi\source\repos\Aktur-Proje-1\Aktur-Proje-1\obj\Debug\Aktur-Proje-1.exe
+C:\Users\bilgi\source\repos\Aktur-Proje-1\Aktur-Proje-1\obj\Debug\Aktur-Proje-1.pdb
